@@ -1,1 +1,8 @@
-https://nevadaassistedliving.org/sitemap.txt
+User-agent: *
+Allow: /
+
+# Help AI bots find your site summary
+LLMS: https://nevadaassistedliving.org/llms.txt
+
+Sitemap: https://nevadaassistedliving.org/sitemap.txt
+[cite_start]``` [cite: 5]
