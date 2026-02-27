@@ -5,4 +5,3 @@ Allow: /
 LLMS: https://nevadaassistedliving.org/llms.txt
 
 Sitemap: https://nevadaassistedliving.org/sitemap.txt
-[cite_start]``` [cite: 5]
