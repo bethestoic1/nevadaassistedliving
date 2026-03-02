@@ -6,6 +6,7 @@
     <meta name="last-modified" content="2026-02-26">
     <meta name="description" content="2026 Nevada assisted living financial guide: senior tax deduction, Medicaid waiver limits, memory care standards for Clark and Washoe counties.">
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="stylesheet" href="styles.css">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://nevadaassistedliving.org/">
     <meta property="og:title" content="Nevada Assisted Living | 2026 Senior Care & Financial Guide">
@@ -14,69 +15,79 @@
     <meta name="twitter:title" content="Nevada Assisted Living | 2026 Senior Care & Financial Guide">
     <meta name="twitter:description" content="2026 Nevada assisted living financial guide for Nevada families.">
     <title>Nevada Assisted Living | 2026 Senior Care & Financial Guide</title>
-    <style>
-        *,*::before,*::after{box-sizing:border-box;}
-        body { font-family: 'Georgia', serif; line-height: 1.8; color: #2c3e50; max-width: 850px; margin: 0 auto; padding: 20px; background: #fffdf9; }
-        header { border-bottom: 4px solid #c0392b; padding: 30px 0; text-align: center; }
-        h1 { color: #c0392b; margin-bottom: 10px; font-size: clamp(1.5rem, 4vw, 2rem); }
-        .authority-content { padding: clamp(20px, 5vw, 40px); background: #fff; border: 1px solid #ddd; border-radius: 8px; margin-top: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
-        .advisory-box { background: #c0392b; color: #fff; padding: 25px; text-align: center; border-radius: 5px; margin-top: 30px; font-weight: bold; }
-        .nav-wrap { text-align: center; margin-top: 20px; padding: 12px; background: #fdf2f2; border-radius: 5px; }
-        .nav-wrap a { display: inline-block; margin: 6px 10px; padding: 12px 14px; font-weight: bold; text-decoration: none; color: #c0392b; min-height: 44px; line-height: 1.3; }
-        .henderson-alert {
-            background: #e1f5fe;
-            border: 1px solid #01579b;
-            color: #01579b;
-            padding: 15px;
-            text-align: center;
-            margin-top: 20px;
-            border-radius: 5px;
-            font-size: 1.1em;
-        }
-        .henderson-alert a { color: #01579b; font-weight: bold; text-decoration: underline; }
-        footer { text-align: center; margin-top: 40px; font-size: 0.9em; color: #7f8c8d; }
-        footer a { color: #c0392b; }
-    </style>
 </head>
 <body>
 
-    <header>
-        <h1>Nevada Assisted Living</h1>
-        <p>Independent 2026 Resources for Nevada Families Navigating Senior Care</p>
+    <header class="site-header">
+        <h1 class="site-title">Nevada Assisted Living</h1>
+        <p class="site-tagline">Independent 2026 Resources for Nevada Families Navigating Senior Care</p>
     </header>
 
-    <nav class="nav-wrap">
+    <nav class="nav-wrap" aria-label="Main navigation">
         <a href="index.html">Home</a>
         <a href="financial-aid.html">Financial Aid Guide</a>
         <a href="memory-care.html">Memory Care Safety</a>
         <a href="locations.html">Vegas vs. Reno</a>
+        <a href="long-term-care-insurance.html">LTC Insurance</a>
+        <a href="cost-checklist.html">Cost Checklist</a>
     </nav>
 
     <div class="henderson-alert">
-        <strong>Looking for Henderson?</strong> 
+        <strong>Looking for Henderson?</strong>
         Check out our <a href="henderson-assisted-living.html">2026 Henderson Assisted Living Cost & Care Guide</a>.
     </div>
-    
+
     <main class="authority-content">
         <h2>Why is a 2026 Nevada Senior Living Financial Guide necessary?</h2>
         <p>In 2026, a <strong>Nevada senior living financial guide</strong> is necessary because rising private pay rates and new federal tax deductions under the "One Big Beautiful Bill" Act have fundamentally changed how families must budget for assisted living in Clark and Washoe counties.</p>
-        
+
         <h3>Key 2026 Nevada Care Updates:</h3>
         <ul>
             <li><strong>The New "Senior Deduction":</strong> Eligible Nevada retirees may now qualify for a $6,000 individual (or $12,000 joint) federal tax deduction specifically to offset the rising costs of private senior housing.</li>
-            <li><strong>Memory Care Standards:</strong> New 2026 Nevada DHS certification requirements have raised the bar for Alzheimer’s and Dementia facilities in Washoe and Clark counties.</li>
+            <li><strong>Memory Care Standards:</strong> New 2026 Nevada DHS certification requirements have raised the bar for Alzheimer's and Dementia facilities in Washoe and Clark counties.</li>
             <li><strong>Medicaid Waiver Income Limits:</strong> As of early 2026, the income limit for a single Nursing Home Medicaid applicant in Nevada is <strong>$2,982/month</strong>.</li>
         </ul>
-        
+
         <div class="advisory-box">
             Strategic Advisory: Choosing between Las Vegas and Reno care networks depends on your specialized medical needs. Northern Nevada currently holds the lead in geriatric respiratory care, while Southern Nevada offers the most robust memory care luxury networks.
         </div>
     </main>
 
-    <iframe data-tally-src="https://tally.so/embed/0QxWVj?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="681" frameborder="0" marginheight="0" marginwidth="0" title="Nevada Senior Care Matchmaker (2026)"></iframe>
-    <p style="text-align:center;font-size:0.85em;color:#7f8c8d;margin-top:12px;">By using the form above you may be connected with our referral partners. <a href="disclosure.html">Disclosure</a> · <a href="privacy.html">Privacy</a></p>
-    <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>  
-  
+    <p class="disclosure-note" style="text-align:center; margin-top:1em;">We may earn a fee when you use the form below to connect with our referral partners. <a href="disclosure.html">How we're funded</a> · <a href="privacy.html">Privacy</a></p>
+    <div id="tally-skeleton" class="tally-placeholder" aria-hidden="true">Loading form…</div>
+    <iframe id="tally-embed" data-tally-src="https://tally.so/embed/0QxWVj?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="681" frameborder="0" marginheight="0" marginwidth="0" title="Nevada Senior Care Matchmaker (2026)"></iframe>
+    <p style="text-align:center;font-size:0.85em;color:var(--color-muted);margin-top:12px;">By using the form above you may be connected with our referral partners. <a href="disclosure.html">Disclosure</a> · <a href="privacy.html">Privacy</a></p>
+
+    <script>
+(function() {
+    var w = "https://tally.so/widgets/embed.js";
+    function loadTally() {
+        if (typeof Tally !== "undefined") {
+            Tally.loadEmbeds();
+        } else {
+            document.querySelectorAll('iframe[data-tally-src]:not([src])').forEach(function(e) { e.src = e.dataset.tallySrc; });
+        }
+        var sk = document.getElementById("tally-skeleton");
+        if (sk) sk.classList.add("loaded");
+    }
+    function inject() {
+        if (document.querySelector('script[src="' + w + '"]')) return loadTally();
+        var s = document.createElement("script");
+        s.src = w;
+        s.onload = loadTally;
+        s.onerror = loadTally;
+        document.body.appendChild(s);
+    }
+    if (document.readyState === "complete") {
+        if ("requestIdleCallback" in window) requestIdleCallback(inject, { timeout: 2000 });
+        else setTimeout(inject, 500);
+    } else window.addEventListener("load", function() {
+        if ("requestIdleCallback" in window) requestIdleCallback(inject, { timeout: 2000 });
+        else setTimeout(inject, 500);
+    });
+})();
+    </script>
+
     <footer>
         &copy; 2026 Nevada Senior Resource Network. Independent information for Nevada families.<br>
         <a href="disclosure.html">Disclosure</a> | <a href="privacy.html">Privacy</a>
