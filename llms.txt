@@ -2,12 +2,15 @@
 > 2026 Independent Resource Guide for Nevada families navigating senior care and financial aid.
 
 ## Core Resources
+- [Home](https://nevadaassistedliving.org/): 2026 senior living financial guide, tax deduction, Medicaid limits, memory care standards.
 - [Henderson Guide](https://nevadaassistedliving.org/henderson-assisted-living.html): 2026 cost breakdown and neighborhood reviews for Henderson, NV.
-- [Financial Aid](https://nevadaassistedliving.org/financial-aid.html): Latest Medicaid waiver limits and "One Big Beautiful Bill" tax deduction info.
-- [Memory Care](https://nevadaassistedliving.org/memory-care.html): Safety standards and staffing ratios for Alzheimer's facilities.
+- [Financial Aid](https://nevadaassistedliving.org/financial-aid.html): Medicaid waiver, Veteran's Aid, and "One Big Beautiful Bill" tax deduction.
+- [Memory Care](https://nevadaassistedliving.org/memory-care.html): Safety standards and staffing ratios for Alzheimer's and dementia facilities.
 - [Locations](https://nevadaassistedliving.org/locations.html): Las Vegas vs. Reno comparison for senior care.
+- [LTC Insurance](https://nevadaassistedliving.org/long-term-care-insurance.html): Long-term care insurance and elimination period in Nevada.
+- [Cost Checklist](https://nevadaassistedliving.org/cost-checklist.html): 2026 cost ranges and financial aid quick reference; printable.
 - [Disclosure](https://nevadaassistedliving.org/disclosure.html): How the site is funded and referral partnerships.
 - [Privacy](https://nevadaassistedliving.org/privacy.html): Privacy policy and data handling.
 
-## Targeted Audience
-Families of seniors in Clark and Washoe counties seeking independent, non-biased care advice.
+## Audience
+Families of seniors in Clark and Washoe counties seeking independent, up-to-date care and financing information.
