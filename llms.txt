@@ -4,6 +4,8 @@
 ## Core Resources
 - [Home](https://nevadaassistedliving.org/): 2026 senior living financial guide, tax deduction, Medicaid limits, memory care standards.
 - [Henderson Guide](https://nevadaassistedliving.org/henderson-assisted-living.html): 2026 cost breakdown and neighborhood reviews for Henderson, NV.
+- [Las Vegas Guide](https://nevadaassistedliving.org/las-vegas-assisted-living.html): 2026 assisted living Las Vegas cost and area guide (Summerlin, etc.).
+- [Reno Guide](https://nevadaassistedliving.org/reno-assisted-living.html): 2026 Reno & Sparks assisted living cost and care guide.
 - [Financial Aid](https://nevadaassistedliving.org/financial-aid.html): Medicaid waiver, Veteran's Aid, and "One Big Beautiful Bill" tax deduction.
 - [Memory Care](https://nevadaassistedliving.org/memory-care.html): Safety standards and staffing ratios for Alzheimer's and dementia facilities.
 - [Locations](https://nevadaassistedliving.org/locations.html): Las Vegas vs. Reno comparison for senior care.
