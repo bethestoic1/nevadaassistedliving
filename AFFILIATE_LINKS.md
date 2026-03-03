@@ -19,9 +19,21 @@ Partner (referral) links are defined in the following places. Update the URLs wh
 
 ---
 
+## Affiliate programs to apply to
+
+| Program | Status | Apply / Notes |
+|---------|--------|----------------|
+| **A Place for Mom** | In use (tracked link when approved) | Via your affiliate network. |
+| **Caring.com** | No publisher affiliate program | Links are informational only. |
+| **Senior Living Link** | Site down/unresponsive (as of 2026) | Skip; use alternatives below. |
+| **SilverAssist / FamilyAssets** | Application submitted | Awaiting approval (up to 3 business days). You’ll get login details if approved. Same network as SilverAssist. |
+| **My Best Senior Living** | Arizona only | Not a fit for a Nevada site; they only serve AZ locations. Skip. |
+
+---
+
 ## Adding more partners
 
-To add another partner (e.g. SeniorLiving.org):
+To add another partner (e.g. after SilverAssist approval):
 
 - Add a new row above and note the file and link text.
 - Use `class="btn-primary"` for buttons or a standard `<a href="...">` for text links.
