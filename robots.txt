@@ -1,7 +1,4 @@
 User-agent: *
 Allow: /
 
-# Help AI bots find your site summary
-LLMS: https://nevadaassistedliving.org/llms.txt
-
 Sitemap: https://nevadaassistedliving.org/sitemap.txt
