@@ -159,6 +159,7 @@ def main():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
     <title>Nevada Senior Care News</title>
     <style>
 ''' + INDEX_STYLES + '''
@@ -224,6 +225,7 @@ def main():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
     <title>''' + a["title"] + '''</title>
     <style>
         body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; background: #fffdf9; color: #2c3e50; max-width: 800px; margin: 0 auto; padding: 40px 20px; line-height: 1.6; }
