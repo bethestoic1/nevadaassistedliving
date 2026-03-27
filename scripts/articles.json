@@ -1,0 +1,40 @@
+[
+  {
+    "title": "HHS and CMS Announce New Healthcare Advisory Committee",
+    "slug": "hhs-cms-healthcare-advisory-committee-2026",
+    "meta_desc": "HHS and CMS announce members of a new advisory committee to modernize the U.S. healthcare system and improve patient care.",
+    "intro": "The Department of Health and Human Services (HHS) and CMS have announced the appointment of 18 members to a new Healthcare Advisory Committee. This committee is tasked with providing recommendations on modernizing the U.S. healthcare system, focusing on patient-centered care and chronic disease prevention.",
+    "sections": [
+      {
+        "heading": "Expert Guidance for Modernization",
+        "body": "The committee will advise HHS Secretary Robert F. Kennedy Jr. and CMS Administrator Dr. Mehmet Oz on improving care delivery across Medicare and Medicaid. For senior care facilities in Nevada, this means new federal standards aimed at reducing administrative burden and focusing on patient outcomes."
+      },
+      {
+        "heading": "Digital health transition",
+        "body": "A primary focus of the committee will be the shift from a 'sick care' model to a proactive, data-driven 'healthcare' system. This includes leveraging real-time data to improve clinical decision-making and ensuring that LTC facilities have the support they need to provide sustainable, high-quality care."
+      }
+    ],
+    "source": "local",
+    "date": "2026-03-26",
+    "ref_url": "https://www.cms.gov/newsroom"
+  },
+  {
+    "title": "CMS Finalizes Rule to Phase Out Medical Fax Machines",
+    "slug": "cms-rule-medical-fax-phase-out-2026",
+    "meta_desc": "CMS issues a new rule to eliminate fax machines and snail mail in healthcare, establishing national standards for electronic clinical exchange.",
+    "intro": "In a major push toward full digitization, CMS has finalized a rule to phase out the use of fax machines and 'snail mail' across the U.S. healthcare industry. This move is projected to save the healthcare industry approximately $781 million annually by establishing secure, national standards for electronic documentation.",
+    "sections": [
+      {
+        "heading": "Standards for Claims Attachments",
+        "body": "The 'Administrative Simplification' rule adopts new standards for health care claims attachments and electronic signatures. This ensures that assisted living facilities can transmit sensitive medical documentation securely and instantly, reducing the reliance on legacy hardware."
+      },
+      {
+        "heading": "Timeline for Compliance",
+        "body": "While the transition represents a significant shift, CMS has provided a multi-year road map for compliance. Senior living providers in Nevada will have until 2028 to fully integrate these electronic standards, allowing for a smooth transition from manual paperwork to a modern digital infrastructure."
+      }
+    ],
+    "source": "local",
+    "date": "2026-03-26",
+    "ref_url": "https://www.cms.gov/newsroom/press-releases/cms-rule-phases-out-fax-machines-snail-mail-save-taxpayers-781-98-million-year"
+  }
+]
