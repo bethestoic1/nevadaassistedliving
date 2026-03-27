@@ -85,6 +85,17 @@ def main():
             'ref_url': item.get("ref_url", "#")
         })
 
+    # Generate dynamic ticker from latest articles
+    ticker_articles = list(reversed(ARTICLES))[:8]
+    if not ticker_articles:
+        ticker_articles = [{'title': 'No articles yet — check back soon!', 'slug': 'index.html'}]
+
+    ticker_items = ''.join(
+        '                <li><a href="/news/%s">%s</a></li>\n' % (a['slug'], a['title'])
+        for a in ticker_articles
+    )
+    ticker_html = ticker_items + ticker_items  # duplicate for CSS seamless loop
+
     cards_html = ""
     if not ARTICLES:
         cards_html = '<div class="article-card" style="grid-column: 1 / -1; text-align:center;"><p>No news published yet. Check back soon!</p></div>'
@@ -173,8 +184,7 @@ def main():
         <span class="ticker-label">LATEST</span>
         <div class="ticker-track">
             <ul class="ticker-list">
-                <li><a href="/news/">2026 Nevada Medicaid waitlist reduced by 30%</a></li>\n                <li><a href="/news/">New luxury memory care facility opens in Summerlin</a></li>\n                <li><a href="/news/">State announces $5M in caregiver grants</a></li>\n                <li><a href="/news/">Reno independent living costs rise 8%</a></li>\n                <li><a href="/news/">2026 Nevada Medicaid waitlist reduced by 30%</a></li>\n                <li><a href="/news/">New luxury memory care facility opens in Summerlin</a></li>\n                <li><a href="/news/">State announces $5M in caregiver grants</a></li>\n                <li><a href="/news/">Reno independent living costs rise 8%</a></li>
-            </ul>
+''' + ticker_html + '''            </ul>
         </div>
     </div>
 
